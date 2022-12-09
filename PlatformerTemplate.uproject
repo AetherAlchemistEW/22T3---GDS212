@@ -27,6 +27,14 @@
 			"Enabled": true
 		},
 		{
+			"Name": "AppleImageUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
 			"Name": "OnlineSubsystemIOS",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -35,7 +43,7 @@
 			]
 		},
 		{
-			"Name": "IOSDeviceProfileSelector",
+			"Name": "MobileLauncherProfileWizard",
 			"Enabled": false
 		}
 	],
